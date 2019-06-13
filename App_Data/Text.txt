@@ -1,0 +1,11 @@
+﻿<html>
+Xin chào, </br>
+
+Đây là thông tin của một người gửi đến trang :</br>
+
+Tên :						##Name##</br>
+Email:						##Email##</br>
+Số điện thoại cá nhân:		##PhoneHome##</br>
+Chủ đề thắc mắc:			##TopicQuestions##</br>
+Chú thích:					##Comments##</br>
+</html>

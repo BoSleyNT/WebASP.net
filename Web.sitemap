@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Trang chủ"  description="">
+    <siteMapNode url="~/TrangChu/Content.aspx" title="Trang chủ"  description="Trở về Trang chủ" />
+    <siteMapNode url="~/GioiThieu/Default.aspx" title="Giới thiệu"  description="Reviews Published on this site">
+  </siteMapNode>
+    <siteMapNode url="https://www.marvel.com/characters" title="Nhân Vật" description="All Gig Pics"></siteMapNode>
+  <siteMapNode url="~/LienHe/Contact.aspx" title="Liên hệ"  description="Contact Us"></siteMapNode>
+      <siteMapNode url="https://www.facebook.com/marvelvnfanpage/" title="Fanpage"  description="Log in to this web Site" />
+  </siteMapNode>
+
+</siteMap>
