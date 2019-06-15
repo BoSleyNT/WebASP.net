@@ -26,6 +26,10 @@ Nếu bạn tò mò về các nhân vật xuất hiện trong MCU và click vô 
 Đối với trang liên hệ ,nếu các bạn có câu hỏi thắc mắc thì vui lòng làm theo các bước và bấm gửi . Hệ thống sẽ thu thập dữ liệu sau đó mình sẽ lọc các câu hỏi liên quan và trả lời trên fanpage.
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/64293832_1280447995458433_5333245613691633664_n.png?_nc_cat=107&amp;_nc_oc=AQlUPxc1riZHBFvBpXoIwmUXDxWot_oyUI9_IHMfPyRxpgOEyp9Ont_EFLxY2Et30Roov4Nu1_wFYfGaEGQHLMt1&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=6cd21fc215e3debd67be503abce71332&amp;oe=5D82BA5B" alt="" class="img" style="width: 1037px; height: 538px;">
 ` Nhập thông tin và tạo chủ đề`
+
+Sau khi thông tin được gửi tới thì sẽ hiện như này :
 <img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/62594537_428427804675397_3526736571757756416_n.png?_nc_cat=102&amp;_nc_oc=AQmdndm1Y43R3dZqljzetwdKbPdiH-W54q9vdvQ4z_r9sfDWCav8TdTqU-5_9dHeaFsMxJ0S_63Tv7CMUMBlND4-&amp;_nc_ht=scontent.fdad1-1.fna&amp;oh=bf588809f82ffc3a08a53cd96dc027c1&amp;oe=5D856FB6" alt="" class="img" style="width: 1037px; height: 542px;">
 ` Cơ sở dữ liệu mình nhận được `
+
+## Và đó là những nội dung trong ASP.NET với chủ để Vũ trụ điện ảnh Marvel. Xin cảm ơn các bạn và thầy đã xem bài của em ##
 
