@@ -22,7 +22,7 @@ Tiếp đến về phần thông tin , bạn có thể click chuột vào trang 
 **Trang Nhân vật và Fanpage:**
 Nếu bạn tò mò về các nhân vật xuất hiện trong MCU và click vô 2 tag này thì đối với trang Nhân Vật bạn sẽ được chuyển đến trang chủ của Marvel studio với vô vàng nhân vật cho các bạn tha hồ tìm hiểu. Vì là trang chính thức nên toàn tiếng anh, có thể gây khó khăn cho 1 số người nhưng đừng lo. Các bạn còn 1 lựa chọn nữa là trang Fanpage thuộc Marvel VN, ở đây sẽ cập nhật thường xuyên tin tức liên quan đến marvel từ truyện tranh cho đến phim ảnh.
 
-**Trang Liên hệ:***
+**Trang Liên hệ:**
 Đối với trang liên hệ ,nếu các bạn có câu hỏi thắc mắc thì vui lòng làm theo các bước và bấm gửi . Hệ thống sẽ thu thập dữ liệu sau đó mình sẽ lọc các câu hỏi liên quan và trả lời trên fanpage.
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/64293832_1280447995458433_5333245613691633664_n.png?_nc_cat=107&amp;_nc_oc=AQlUPxc1riZHBFvBpXoIwmUXDxWot_oyUI9_IHMfPyRxpgOEyp9Ont_EFLxY2Et30Roov4Nu1_wFYfGaEGQHLMt1&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=6cd21fc215e3debd67be503abce71332&amp;oe=5D82BA5B" alt="" class="img" style="width: 1037px; height: 538px;">
 ` Nhập thông tin và tạo chủ đề`
