@@ -6,4 +6,4 @@ Giao diện Website đã được mình tối ưu để nhìn giống như bạn
 
 Về Giao diện chính của trang web giới thiệu về MCU , mình có phân loại 2 kiểu Giao diện là GD dọc và GD ngang.
 # Trang chủ (GD-doc)
-<a href="https://www.upsieutoc.com/image/BQ4aUU"><img src="https://www.upsieutoc.com/images/2019/06/15/TrangChu-Doc.md.png" alt="TrangChu-Doc.png" border="0" /></a>
+![img](1.JPG)
